@@ -1,0 +1,32 @@
+2020-02-19/16:56:37		GoodRaw directory deleted successfully!!!
+2020-02-19/16:56:37		Bad files moved to archive
+2020-02-19/16:56:37		Bad Raw Data Folder Deleted successfully!!
+2020-02-19/17:28:33		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:28:33		GoodRaw directory deleted successfully!!!
+2020-02-19/17:29:28		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:29:29		GoodRaw directory deleted successfully!!!
+2020-02-19/17:32:07		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:32:07		GoodRaw directory deleted successfully!!!
+2020-02-19/17:35:14		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:35:14		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		Bad files moved to archive
+2020-02-19/17:36:11		Bad Raw Data Folder Deleted successfully!!
+2020-04-12/21:51:00		GoodRaw directory deleted successfully!!!
+2020-04-12/21:51:00		Bad files moved to archive
+2020-04-12/21:51:00		Bad Raw Data Folder Deleted successfully!!
+2023-06-06/21:01:48		BadRaw directory deleted before starting validation!!!
+2023-06-06/21:01:48		GoodRaw directory deleted successfully!!!
+2023-06-06/21:02:26		BadRaw directory deleted before starting validation!!!
+2023-06-06/21:02:26		GoodRaw directory deleted successfully!!!
+2023-06-06/21:02:36		GoodRaw directory deleted successfully!!!
+2023-06-06/21:02:36		Bad files moved to archive
+2023-06-06/21:02:36		Bad Raw Data Folder Deleted successfully!!
+2023-06-07/20:49:30		GoodRaw directory deleted successfully!!!
+2023-06-07/20:49:30		Bad files moved to archive
+2023-06-07/20:49:30		Bad Raw Data Folder Deleted successfully!!
+2023-06-07/20:51:56		BadRaw directory deleted before starting validation!!!
+2023-06-07/20:51:56		GoodRaw directory deleted successfully!!!
+2023-06-07/20:52:06		GoodRaw directory deleted successfully!!!
+2023-06-07/20:52:06		Bad files moved to archive
+2023-06-07/20:52:06		Bad Raw Data Folder Deleted successfully!!

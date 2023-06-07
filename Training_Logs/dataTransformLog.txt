@@ -1,0 +1,6 @@
+2020-02-19/16:38:34		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
+2020-02-19/16:50:10		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
+2020-02-19/16:53:17		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
+2020-02-19/17:47:57		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
+2020-02-19/18:49:21		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
+2020-02-19/18:50:04		 creditCardFraud_021119920_010222.csv: Quotes added successfully!!
