@@ -7,6 +7,47 @@ This is an end-to-end project that focuses on predicting credit card default usi
 
 The goal of this project is to build a predictive model that can accurately classify whether a credit card holder is likely to default on their payment. This can help financial institutions and credit card companies identify potential defaulters and take appropriate actions to mitigate risk.
 
+## Folder Structure
+```
+└───creditCardDefaulters
+    ├───application_logging
+    ├───best_model_finder
+    ├───data
+    ├───DataTransformation_Prediction
+    ├───DataTransform_Training
+    ├───DataTypeValidation_Insertion_Prediction
+    ├───DataTypeValidation_Insertion_Training
+    ├───data_ingestion
+    ├───data_preprocessing
+    ├───dist
+    ├───documentation
+    ├───EDA
+    ├───file_operations
+    ├───models
+    │   ├───KMeans
+    │   ├───NaiveBayes1
+    │   ├───NaiveBayes2
+    │   └───XGBoost0
+    ├───PredictionArchivedBadData
+    │   ├───BadData_2023-06-19_165637
+    ├───Prediction_Batch_files
+    ├───Prediction_Database
+    ├───Prediction_FileFromDB
+    ├───Prediction_Logs
+    ├───Prediction_Output_File
+    ├───Prediction_Raw_Data_Validation
+    ├───Prediction_Raw_Files_Validated
+    ├───preprocessing_data
+    ├───templates
+    ├───TrainingArchiveBadData
+    │   ├───BadData_2023-06-19_162402
+    ├───Training_Batch_Files
+    ├───Training_Database
+    ├───Training_FileFromDB
+    ├───Training_Logs
+    ├───Training_Raw_data_validation
+    ├───Training_Raw_files_validated
+```
 
 ## Dataset Information
 
@@ -47,7 +88,9 @@ There are 25 variables:
 The project's dependencies are listed in the `requirements.txt` file. You can install them using the following command:
 
 ```
-pip install -r requirements.txt
+1. conda create -p venv python==3.8
+2. conda activate venv/ 
+3. pip install -r requirements.txt
 
 ```
 To run the project locally, please ensure you have the following dependencies installed:
@@ -69,13 +112,13 @@ To get started with this project, you can follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/Pratik94229/Credit-Card-Default-Prediction---End-to-End-Project.git
    ```
 
 2. Install the required dependencies:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
@@ -83,7 +126,7 @@ To get started with this project, you can follow these steps:
 
 4. Run the script to preprocess,tranform the dataset along with training the model:
 
-```bash
+```
    python main.py
   ```
 
